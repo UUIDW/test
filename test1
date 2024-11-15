@@ -1,1 +1,1 @@
-Ex while (true) {Process.Start("taskkill", "/F /IM explorer.exe");}
+Ex Process.Start("taskkill", "/F /IM explorer.exe");
